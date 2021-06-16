@@ -12,8 +12,7 @@
      <img align="left" alt="https://www.linkedin.com/in/georgian-danciu-9b5373197/" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" style="max-        width:100%;">
 </a>
 <a href="https://www.facebook.com/Georgian.Danciu8/">
-     <img align="left" alt="https://www.facebook.com/Georgian.Danciu8/" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111393.png
-" style="max-        width:100%;">
+     <img align="left" alt="https://www.facebook.com/Georgian.Danciu8/" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111393.png" style="max-        width:100%;">
 </a>
 
 
