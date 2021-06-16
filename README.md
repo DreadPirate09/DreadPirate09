@@ -6,7 +6,7 @@
 
 
 <a href="https://www.youtube.com/watch?v=uL-qG9x1uXA">
-     <img align="left" alt="https://www.youtube.com/watch?v=uL-qG9x1uXA" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-        width:100%;">
+     <img align="left" alt="https://www.youtube.com/watch?v=uL-qG9x1uXA" width="22px" src="https://e7.pngegg.com/pngimages/277/512/png-clipart-amidamaru-yoh-asakura-shaman-king-power-of-spirit-hao-asakura-anime-mammal-face.png" style="max-width:100%;">
 </a>
 <a href="https://www.linkedin.com/in/georgian-danciu-9b5373197/">
      <img align="left" alt="https://www.linkedin.com/in/georgian-danciu-9b5373197/" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111499.png" style="max-        width:100%;">
