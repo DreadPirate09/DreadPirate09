@@ -15,4 +15,6 @@
      <img align="left" alt="https://www.facebook.com/Georgian.Danciu8/" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111393.png" style="max-        width:100%;">
 </a>
 
-
+<a href="https://twitter.com/DexterALLS">
+     <img align="left" alt="https://twitter.com/DexterALLS" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111688.png" style="max-        width:100%;">
+</a>
