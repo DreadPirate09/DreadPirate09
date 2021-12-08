@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danciu Valeriu Georgian  
-     Ex jr. Software engineer at Nokia working on diverse projects  
+     Ex jr. Software engineer at Nokia  
      Currently jr. Software engineer at Endava Timisoara  
 - 👀 I’m interested in Software that necessity graphics and data manipulation
 - 🌱 I’m currently learning at Universitatea Politehnica Timisoara
