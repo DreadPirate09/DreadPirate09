@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danciu Valeriu Georgian  
 
-- Welcome to the Dark Side [!YO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchpic.su%2Fru%2Fstickers%2FKungFuryHackerman%2F&psig=AOvVaw21AA7aOFxOVmXaAUcrce3e&ust=1710011127349000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjH64Ku5YQDFQAAAAAdAAAAABAe)
+- Welcome to the Dark Side [!YO](https://data.chpic.su/stickers/k/KungFuryHackerman/KungFuryHackerman_001.webp)
 
 
 <a href="https://www.youtube.com/watch?v=uL-qG9x1uXA">
